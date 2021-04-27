@@ -1,0 +1,5 @@
+janus>=0.5
+numpy
+pyqt5
+asyncqt
+pyqtgraph

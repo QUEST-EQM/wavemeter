@@ -1,0 +1,2 @@
+call conda activate wavemeter
+wavemeter_lock_remote -s ::1 --rpc_target lock638 --notifier lock638 --title "638nm lock control" -x 600 -y 0 --plot_offset 469441553.6 --plot_actual_color "#ff2424" --plot_bgr_alarm b
